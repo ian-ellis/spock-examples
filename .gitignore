@@ -1,0 +1,31 @@
+*.iml
+/.gradle
+/local.properties
+.idea
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# osx noise
+.DS_Store
+
+# Android
+.gradle
+gen
+bin
+doc
+proguard
+local.properties
+*.iml
+.idea
+build/
+
+*.hprof
+/build
+/captures
+
+tags
+.tags
+gentags
